@@ -1,11 +1,9 @@
-👋 Hi folks, Octave Horlin here!
+# 👋 Hi folks, Octave Horlin here!
 
-    📚 I’m currently a student at CentraleSupélec and ESSEC, where I’m delving into engineering and business.
+- 🧑‍🎓 I’m currently a student at CentraleSupélec and ESSEC, where I’m delving into engineering and business.
+- 🧠 I have a strong interest in data science, AI, and solving real complex problems with code.
+- 💻 I’m proficient in Python libraries such as Numpy, Scipy, Pandas, Matplotlib, Scikit-learn, and PyTorch.
+- 🚀 Whether it's crunching numbers, analyzing data, or building intelligent models, I thrive on turning complex challenges into elegant solutions.
+- 📫 Connect with me and let’s learn together!
 
-    👀 I have a strong interest in data science, AI, and solving real complex problems with code.
-    
-    📈 I’m proficient in Python libraries such as Numpy, Scipy, Pandas, Matplotlib, Scikit-learn, and PyTorch.
-
-    🚀 Whether it's crunching numbers, analyzing data, or building intelligent models, I thrive on turning complex challenges into elegant solutions.
-
-    🔗 Connect with me and let's learn together!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octave-Horlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
